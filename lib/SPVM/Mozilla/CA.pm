@@ -35,11 +35,11 @@ The Mozilla::CA class of L<SPVM> has methods for someting.
 
 =head1 Author
 
-[--user-name] C<[--user-email]>
+Yuki Kimoto C<kimoto.yuki@gmail.com>
 
 =head1 Copyright & License
 
-Copyright (c) 2023 [--user-name]
+Copyright (c) 2023 Yuki Kimoto
 
 MIT License
 
